@@ -30,6 +30,6 @@
 
 * Login WhatsApp web via QR
 
-* When you can see your messages press ENTER.
+* When you can see your messages press ENTER on terminal.
 
 * Done!  
