@@ -36,22 +36,16 @@
 
 
 
-
+<br/> <br/> <br/> <br/> 
 
 ### <div align="center">I'm İrfan Günel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
-  
-
-- 🔭 I’m currentl  
   
 
 - 🌱 Currently studying Information Technologies and Systems (IT) on Mersin University.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+    
 
 <br/>  
 
