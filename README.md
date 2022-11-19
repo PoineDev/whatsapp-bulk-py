@@ -27,6 +27,7 @@
     ```
     python wabulk.py
     ```
+* Set your wait time for each message (secs.)
 
 * Login WhatsApp web via QR
 
