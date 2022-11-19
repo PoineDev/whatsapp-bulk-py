@@ -10,6 +10,10 @@
     ```bash
     pip install selenium
     ```
+* Webdrive-manager  
+    ```bash
+    pip install webdriver-manager
+    ```
 
 
 ## ⚙️ Setup
