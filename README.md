@@ -6,7 +6,7 @@
 
 * Python of course at least v3.6.
 * Chrome web driver. (https://chromedriver.chromium.org)
-* Selenium you can install via cmd
+* Selenium; you can install via cmd
     ```bash
     pip install selenium
     ```
