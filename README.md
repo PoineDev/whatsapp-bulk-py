@@ -43,8 +43,6 @@
 
 - 🌱 Currently studying Information Technologies and Systems (IT) on Mersin University.  
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
     
 
 <br/>  
