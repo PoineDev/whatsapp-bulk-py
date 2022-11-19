@@ -18,7 +18,7 @@
 
 * Import yout message to message.txt
 
-* run wabulkpy
+* run wabulk.py
 
     ```
     python wabulk.py
